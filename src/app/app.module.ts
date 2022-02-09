@@ -10,6 +10,7 @@ import { ContactComponent } from './contact/contact.component';
 import { HeaderComponent } from './layout/header/header.component'
 import { FooterComponent } from './layout/footer/footer.component';
 import { ListComponent } from './list/list.component';
+import { NoPageComponent } from './no-page/no-page.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { ListComponent } from './list/list.component';
     ContactComponent,
     HeaderComponent,
     FooterComponent,
-    ListComponent
+    ListComponent,
+    NoPageComponent
   ],
   imports: [
     BrowserModule,

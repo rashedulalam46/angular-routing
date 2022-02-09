@@ -4,6 +4,7 @@ import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
 import { ListComponent } from './list/list.component';
+import {NoPageComponent} from './no-page/no-page.component'
 
 const routes: Routes = [
   {
@@ -21,6 +22,10 @@ const routes: Routes = [
   {
     component:ListComponent,
     path:'list/:id'
+  },
+  {
+    component:NoPageComponent,
+    path:'**'
   }
 ];
 
