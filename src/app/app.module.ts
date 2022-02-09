@@ -11,6 +11,8 @@ import { HeaderComponent } from './layout/header/header.component'
 import { FooterComponent } from './layout/footer/footer.component';
 import { ListComponent } from './list/list.component';
 import { NoPageComponent } from './no-page/no-page.component';
+import { AboutMeComponent } from './about-me/about-me.component';
+import { AboutUsComponent } from './about-us/about-us.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +23,9 @@ import { NoPageComponent } from './no-page/no-page.component';
     HeaderComponent,
     FooterComponent,
     ListComponent,
-    NoPageComponent
+    NoPageComponent,
+    AboutMeComponent,
+    AboutUsComponent
   ],
   imports: [
     BrowserModule,
