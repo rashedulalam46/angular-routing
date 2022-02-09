@@ -4,6 +4,10 @@ This is a complete example of Angular basic routing. Here you will get all types
 
 ## Summary
 Download the project and run.
+* Header menu: Basic routing
+* Home Page: Dynamic routing
+* About Page: Child routing
+* 404 Page: 404 page routing
 
 ## Development server
 
