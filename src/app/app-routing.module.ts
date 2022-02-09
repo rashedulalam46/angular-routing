@@ -9,7 +9,7 @@ import {NoPageComponent} from './no-page/no-page.component'
 const routes: Routes = [
   {
     component:HomeComponent,
-    path:'home'
+    path:''
   },
   {
     component:AboutComponent,
