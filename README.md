@@ -1,6 +1,9 @@
-# AngularRouting
+# Angular Routing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
+This is a complete example of Angular basic routing. Here you will get all types of routing example & code.
+
+## Summary
+Download the project and run.
 
 ## Development server
 
