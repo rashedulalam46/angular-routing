@@ -1,5 +1,7 @@
-h4 {
+.footer {
     text-align: center;
     background-color: rgb(198, 204, 206);
-    padding: 10px;    
+    position: absolute;
+    width: 100%;
+    bottom: 0; 
 }
