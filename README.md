@@ -1,6 +1,6 @@
 # Angular Routing
 
-This is a complete example of Angular basic routing. Here you will get all types of routing example & code.
+This is a complete example of Angular basic routing. Here, you will find all types of routing examples and code.
 
 ## Summary
 Download the project and run.
